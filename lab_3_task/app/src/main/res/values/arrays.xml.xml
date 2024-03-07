@@ -1,0 +1,6 @@
+<resources>
+    <string-array name="temperature_types">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+</resources>
