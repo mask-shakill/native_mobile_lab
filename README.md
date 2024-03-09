@@ -18,7 +18,7 @@
 Before you begin, ensure you have met the following requirements:
 
 - [Android Studio](https://developer.android.com/studio) installed
-- Other dependencies...
+- Other dependencies..
 
 ## Getting Started
 
